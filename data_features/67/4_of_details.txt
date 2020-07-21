@@ -1,0 +1,13 @@
+Input:./hayyan/non-sarcastic/4.mp4
+Input full path:/content/sarcasm-dataset/hayyan/non-sarcastic/4.mp4
+Camera parameters:583.594,583.594,427,240
+Output HOG:4.hog
+Output video:4.avi
+Output aligned directory:4_aligned
+Output csv:4.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

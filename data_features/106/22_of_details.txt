@@ -1,0 +1,13 @@
+Input:./ian/non-sarcastic/22.mp4
+Input full path:/content/sarcasm-dataset/ian/non-sarcastic/22.mp4
+Camera parameters:1312.5,1312.5,960,540
+Output HOG:22.hog
+Output video:22.avi
+Output aligned directory:22_aligned
+Output csv:22.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

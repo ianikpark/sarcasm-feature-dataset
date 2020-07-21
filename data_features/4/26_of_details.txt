@@ -1,0 +1,13 @@
+Input:./austin/non-sarcastic/26.mp4
+Input full path:/content/sarcasm-dataset/austin/non-sarcastic/26.mp4
+Camera parameters:875,875,640,360
+Output HOG:26.hog
+Output video:26.avi
+Output aligned directory:26_aligned
+Output csv:26.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

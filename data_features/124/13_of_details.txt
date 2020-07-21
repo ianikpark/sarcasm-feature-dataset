@@ -1,0 +1,13 @@
+Input:./ian/sarcastic/13.mp4
+Input full path:/content/sarcasm-dataset/ian/sarcastic/13.mp4
+Camera parameters:1312.5,1312.5,960,540
+Output HOG:13.hog
+Output video:13.avi
+Output aligned directory:13_aligned
+Output csv:13.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
