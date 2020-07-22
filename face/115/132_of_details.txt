@@ -1,0 +1,13 @@
+Input:./clips/sarcastic/132.mp4
+Input full path:/content/sarcasm-dataset/clips/sarcastic/132.mp4
+Camera parameters:583.594,583.594,427,240
+Output HOG:132.hog
+Output video:132.avi
+Output aligned directory:132_aligned
+Output csv:132.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
