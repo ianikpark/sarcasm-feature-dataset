@@ -1,0 +1,13 @@
+Input:./clips/sarcastic/75.mp4
+Input full path:/content/sarcasm-dataset/clips/sarcastic/75.mp4
+Camera parameters:427.083,427.083,312,176
+Output HOG:75.hog
+Output video:75.avi
+Output aligned directory:75_aligned
+Output csv:75.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
