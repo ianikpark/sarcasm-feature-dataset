@@ -1,0 +1,13 @@
+Input:./clips/sarcastic/153.mp4
+Input full path:/content/sarcasm-dataset/clips/sarcastic/153.mp4
+Camera parameters:1312.5,1312.5,960,540
+Output HOG:153.hog
+Output video:153.avi
+Output aligned directory:153_aligned
+Output csv:153.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

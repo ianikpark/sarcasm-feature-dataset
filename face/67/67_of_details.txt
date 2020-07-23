@@ -1,0 +1,13 @@
+Input:./clips/sarcastic/67.mp4
+Input full path:/content/sarcasm-dataset/clips/sarcastic/67.mp4
+Camera parameters:489.583,489.583,360,200
+Output HOG:67.hog
+Output video:67.avi
+Output aligned directory:67_aligned
+Output csv:67.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

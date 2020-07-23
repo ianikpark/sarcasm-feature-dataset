@@ -1,0 +1,13 @@
+Input:./clips/non-sarcastic/10.mp4
+Input full path:/content/sarcasm-dataset/clips/non-sarcastic/10.mp4
+Camera parameters:489.583,489.583,360,200
+Output HOG:10.hog
+Output video:10.avi
+Output aligned directory:10_aligned
+Output csv:10.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

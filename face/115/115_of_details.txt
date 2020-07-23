@@ -1,0 +1,13 @@
+Input:./clips/non-sarcastic/115.mp4
+Input full path:/content/sarcasm-dataset/clips/non-sarcastic/115.mp4
+Camera parameters:583.594,583.594,427,240
+Output HOG:115.hog
+Output video:115.avi
+Output aligned directory:115_aligned
+Output csv:115.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
